@@ -223,9 +223,9 @@ HTML CSS JavaScript
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Giovana_araujo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GiovanaAraujoIdk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana_araujo&layout=compact&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaAraujoIdk&layout=compact&hide_border=true"/>
 
 </div>
 
@@ -251,15 +251,29 @@ HTML CSS JavaScript
 
 Principais áreas estudadas:
 
-- [DISCIPLINA / ÁREA 1]
-- [DISCIPLINA / ÁREA 2]
-- [DISCIPLINA / ÁREA 3]
-- [DISCIPLINA / ÁREA 4]
-
+- DESENVOLVIMENTO FRONT-END PARA WEB
+- DESIGN PROFISSIONAL
+- ALGORITMOS E PENSAMENTO COMPUTACIONAL
+- MODELAGEM DE BANCO DE DADOS
 ---
 
 # 🏆 Cursos & Certificações
 
+### 📜 Lógica de Programação
+*Instituição:* Rocketseat
+
+📅 2026
+
+---
+
+### 📜 Engenharia de Prompt
+
+*Instituição:* Rocketseat
+
+📅 2026
+
+---
+<!--
 ### 📜 [NOME DO CURSO OU CERTIFICAÇÃO]
 
 *Instituição:* [INSTITUIÇÃO]
@@ -267,23 +281,7 @@ Principais áreas estudadas:
 📅 [ANO]
 
 ---
-
-### 📜 [NOME DO CURSO OU CERTIFICAÇÃO]
-
-*Instituição:* [INSTITUIÇÃO]
-
-📅 [ANO]
-
----
-
-### 📜 [NOME DO CURSO OU CERTIFICAÇÃO]
-
-*Instituição:* [INSTITUIÇÃO]
-
-📅 [ANO]
-
----
-
+-->
 # 💼 Experiência
 
 ## Foundever 
@@ -294,13 +292,11 @@ Principais áreas estudadas:
 
 Atividades:
 
-- [ATIVIDADE / RESULTADO 1]
-- [ATIVIDADE / RESULTADO 2]
-- [ATIVIDADE / RESULTADO 3]
+- Atuação no desenvolvimento, implementação e manutenção de conteúdos, processos e fluxos de conhecimento em bots e plataformas digitais para operações de clientes. Responsável pela criação e atualização de treinamentos, materiais educacionais e bases de conhecimento, contribuindo para a capacitação e performance das equipes operacionais.
 
 Tecnologias e ferramentas:
 
-[FERRAMENTA] [TECNOLOGIA] [TECNOLOGIA]
+Aivo, Canva, Word, Excel, Intranet, entre outros
 
 ---
 
@@ -313,7 +309,7 @@ Tecnologias e ferramentas:
 - 🚀 Proatividade
 - 📚 Aprendizado contínuo
 - 🎯 Organização
-- 💡 Criatividade
+- 💡 Resiliência
 - 🧩 Resolução de problemas
 - ⏰ Gestão de tempo
 
@@ -344,7 +340,7 @@ No momento, meus principais objetivos são:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="[LINK-DO-INSTAGRAM]" target="_blank">
+<a href="https://www.instagram.com/xablau_idk/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
