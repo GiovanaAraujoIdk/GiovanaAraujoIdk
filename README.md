@@ -284,21 +284,6 @@ Principais áreas estudadas:
 
 ---
 -->
-# 💼 Experiência
-
-## Foundever 
-
-### Jovem Aprendiz administrativo
-
-📅 [01/2026] — [ATUAL]
-
-Atividades:
-
-- Atuação no desenvolvimento, implementação e manutenção de conteúdos, processos e fluxos de conhecimento em bots e plataformas digitais para operações de clientes. Responsável pela criação e atualização de treinamentos, materiais educacionais e bases de conhecimento, contribuindo para a capacitação e performance das equipes operacionais.
-
-Tecnologias e ferramentas:
-
-Aivo, Canva, Word, Excel, Intranet, entre outros
 
 ---
 
