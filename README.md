@@ -68,7 +68,7 @@ Meu objetivo é conquistar uma oportunidade como Estagiária, onde eu possa cont
 
 </p>
 
-Python • JavaScript • TypeScript • Java
+Python • JavaScript • Java
 
 ---
 
@@ -78,27 +78,10 @@ Python • JavaScript • TypeScript • Java
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
 
 </p>
 
-HTML5 • CSS3 • React • Node.js
-
----
-
-# 🗄️ Banco de Dados
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" height="45" title="Supabase"/>
-
-</p>
-
-MySQL • PostgreSQL • MongoDB • Supabase
+HTML5 • CSS3
 
 ---
 
@@ -107,15 +90,12 @@ MySQL • PostgreSQL • MongoDB • Supabase
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" title="Microsoft Azure"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" title="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
 
 </p>
 
-Azure • AWS • Docker • Git • GitHub • Linux
+Azure • Git • GitHub
 
 ---
 
@@ -126,11 +106,10 @@ Azure • AWS • Docker • Git • GitHub • Linux
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" title="Visual Studio Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" title="Figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="45" height="45" title="Notion"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" title="Postman"/>
 
 </p>
 
-Visual Studio Code • Figma • Notion • Postman
+Visual Studio Code • Figma • Notion 
 
 ---
 
@@ -140,7 +119,6 @@ Visual Studio Code • Figma • Notion • Postman
 
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
 </p>
@@ -153,37 +131,33 @@ Visual Studio Code • Figma • Notion • Postman
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" title="React"/>
-
 </p>
 
 Atualmente estou aprofundando meus conhecimentos em:
 
-- 📘 *[TECNOLOGIA 1]*
-- 📘 *[TECNOLOGIA 2]*
-- 📘 *[TECNOLOGIA 3]*
-- 📘 *[TECNOLOGIA 4]*
+- 📘 *Python*
+- 📘 *C*
+- 📘 *HTML,CSS e JS*
+- 📘 *Java*
 
 ---
 
 # 🧠 Conhecimentos & Áreas de Interesse
 
-- Desenvolvimento Web
-- Lógica de Programação
+- DevOps
 - Banco de Dados
 - APIs
 - Inteligência Artificial
 - Automação de Processos
 - Cloud Computing
 - Análise de Dados
-- UX/UI
 - Segurança da Informação
-- DevOps
+- Desenvolvimento Web
 
 <!-- APAGUE O QUE NÃO COMBINAR -->
 
 ---
-
+<!--
 # 🚀 Projetos em Destaque
 
 ## 📌 [NOME DO PROJETO 1]
@@ -192,7 +166,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ### Tecnologias
 
-Python SQL API
+Python API
 
 ### Principais funcionalidades
 
@@ -240,7 +214,7 @@ HTML CSS JavaScript
 - [FUNCIONALIDADE 2]
 
 📂 *Repositório:* [LINK DO REPOSITÓRIO]
-
+-->
 ---
 
 # 📈 GitHub Stats
@@ -249,9 +223,9 @@ HTML CSS JavaScript
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Giovana_araujo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana_araujo&layout=compact&hide_border=true"/>
 
 </div>
 
@@ -261,7 +235,7 @@ HTML CSS JavaScript
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=GiovanaAraujoIdk&hide_border=true"/>
 
 </div>
 
@@ -269,11 +243,11 @@ HTML CSS JavaScript
 
 # 🎓 Formação
 
-### 🎓 [NOME DO CURSO]
+### 🎓 Ciência da Computação
 
-*[NOME DA FACULDADE / UNIVERSIDADE]*
+*Universidade Cruzeiro do Sul*
 
-📅 [ANO DE INÍCIO] — [PREVISÃO DE CONCLUSÃO]
+📅 2026 — 2029
 
 Principais áreas estudadas:
 
@@ -312,11 +286,11 @@ Principais áreas estudadas:
 
 # 💼 Experiência
 
-## [NOME DA EMPRESA]
+## Foundever 
 
-### [SEU CARGO]
+### Jovem Aprendiz administrativo
 
-📅 [MÊS/ANO] — [ATUAL OU DATA FINAL]
+📅 [01/2026] — [ATUAL]
 
 Atividades:
 
@@ -349,8 +323,8 @@ Tecnologias e ferramentas:
 
 No momento, meus principais objetivos são:
 
-- Conseguir minha primeira oportunidade em *[ÁREA]*
-- Evoluir meus conhecimentos em *[TECNOLOGIA]*
+- Conseguir minha primeira oportunidade em *TI*
+- Evoluir meus conhecimentos em *Desenvolvimento Web, Infraestrutura Cloud e Cibersegurança*
 - Desenvolver projetos para meu portfólio
 - Colaborar com projetos reais
 - Aprender novas tecnologias
@@ -362,11 +336,11 @@ No momento, meus principais objetivos são:
 
 <div align="left">
 
-<a href="[LINK-DO-LINKEDIN]" target="_blank">
+<a href="https://www.linkedin.com/in/giovanaaraújo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:[SEU-EMAIL]">
+<a href="mailto:giovana.araujoidk77@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
