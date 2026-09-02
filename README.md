@@ -63,7 +63,6 @@ Meu objetivo é conquistar uma oportunidade como Estagiária, onde eu possa cont
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" title="Java"/>
 
 </p>
@@ -217,30 +216,6 @@ HTML CSS JavaScript
 -->
 
 <!--
----
-
-# 📈 GitHub Stats
--->
-<!-- TROQUE SEU-USUARIO PELO SEU USUÁRIO DO GITHUB -->
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GiovanaAraujoIdk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaAraujoIdk&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=GiovanaAraujoIdk&hide_border=true"/>
-
-</div>
-
 ---
 
 # 🎓 Formação
