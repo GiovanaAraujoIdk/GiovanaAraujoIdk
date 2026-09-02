@@ -1,551 +1,202 @@
-<!--
-===========================================================
-            README DE PERFIL - TEMPLATE COMPLETO
-===========================================================
-
-COMO USAR:
-
-1. Troque tudo que estiver entre [COLCHETES].
-2. Apague seções que não combinam com você.
-3. Apague tecnologias que você não conhece.
-4. Adicione as tecnologias que quiser usando a biblioteca
-   de ícones no final do README.
-5. Troque "SEU-USUARIO" pelo seu usuário do GitHub.
-6. Troque todos os links de contato.
-7. Quando terminar, você pode apagar todos esses comentários.
-
-===========================================================
--->
-
 <div align="center">
 
-# 👋 Olá! Eu sou a Giovana 
+👋 Olá! Eu sou a Giovana
 
-### 💻  Tenho como objetivo, ser DevOps!!
+💻 Estudante de Ciência da Computação | Foco em DevOps
 
-[Desenvolvimento de Software • Dados • Cloud • IA • Segurança • Back-End • etc.]
-
-<br>
-
-> "Estou em constante evolução, e gosto de estudar!"
+Desenvolvimento de Software • Cloud • Automação • IA • Segurança da Informação
 
 <br>
+
+"Estou em constante evolução, e gosto de estudar!"
 
 </div>
 
----
-
-# 👩‍💻 Sobre Mim
+👩‍💻 Sobre Mim
 
 Olá! Meu nome é Giovana Araújo.
 
-Atualmente sou estudante de Ciência da Computação na Universidade Cruzeiro do Sul e tenho interesse principalmente nas áreas de DevOps, Segurança da Informação e Desenvolvimento FullStack.
+Atualmente sou estudante de Ciência da Computação na Universidade Cruzeiro do Sul e tenho interesse principalmente em DevOps, Segurança da Informação e Desenvolvimento Full Stack.
 
-Estou desenvolvendo meus conhecimentos em tecnologia através de estudos, cursos e projetos práticos.
+Estou desenvolvendo meus conhecimentos em tecnologia por meio de estudos, cursos e projetos práticos. Atualmente, estou focando meus estudos em HTML, CSS, JavaScript, C e Java, além de reforçar minha base em Python.
 
-Atualmente, estou focando meus estudos em FrontEnd (Html,Css e JS), C e Java.
+Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar evoluindo tecnicamente e contribuir com projetos reais.
 
-Meu objetivo é conquistar uma oportunidade como Estagiária, onde eu possa continuar aprendendo e contribuir com projetos reais!
+🔎 Atualmente
 
-### 🔎 Atualmente
+🎓 Estudando Ciência da Computação
 
-- 🎓 Estudando Ciência da Computação
-- 💼 Buscando oportunidades em Estágio em TI
-- 📚 Aprendendo Html, Css, JS, C, Java, Python, entre outros...
-- 🚀 Desenvolvendo um projeto em N8N.
-- 🎯 Objetivo: Conseguir um emprego na área de TI
+💼 Buscando oportunidades de estágio em TI
 
----
+📚 Aprendendo HTML, CSS, JavaScript, C, Java e Python
 
-# 💻 Linguagens de Programação
+🚀 Desenvolvendo um projeto de automação com n8n
+
+🎯 Objetivo profissional: construir minha carreira na área de TI, com foco em DevOps
+
+💻 Linguagens de Programação
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" title="Java"/>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-Python • JavaScript • Java
-
----
-
-# 🌐 Desenvolvimento Web
+🌐 Desenvolvimento Web
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-HTML5 • CSS3
-
----
-
-# ☁️ Cloud & DevOps
+☁️ Cloud & DevOps
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" title="Microsoft Azure"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
-
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-Azure • Git • GitHub
-
----
-
-# 🛠️ Ferramentas
+🛠️ Ferramentas
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" title="Visual Studio Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" title="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="45" height="45" title="Notion"/>
-
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 </p>
 
-Visual Studio Code • Figma • Notion 
-
----
-
-# 🤖 Inteligência Artificial & Automação
+🤖 Inteligência Artificial & Automação
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 </p>
 
----
-
-# 📚 Atualmente Aprendendo
+📚 Atualmente Aprendendo
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" title="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
 Atualmente estou aprofundando meus conhecimentos em:
 
-- 📘 *Python*
-- 📘 *C*
-- 📘 *HTML,CSS e JS*
-- 📘 *Java*
+📘 Python
 
----
+📘 C
 
-# 🧠 Conhecimentos & Áreas de Interesse
+📘 HTML, CSS e JavaScript
 
-- DevOps
-- Banco de Dados
-- APIs
-- Inteligência Artificial
-- Automação de Processos
-- Cloud Computing
-- Análise de Dados
-- Segurança da Informação
-- Desenvolvimento Web
+📘 Java
 
-<!-- APAGUE O QUE NÃO COMBINAR -->
+🧠 Conhecimentos & Áreas de Interesse
 
----
-<!--
-# 🚀 Projetos em Destaque
+☁️ DevOps
 
-## 📌 [NOME DO PROJETO 1]
+🗄️ Banco de Dados
 
-> [Explique em uma ou duas linhas o que o projeto faz.]
+🔗 APIs
 
-### Tecnologias
+🤖 Inteligência Artificial
 
-Python API
+⚙️ Automação de Processos
 
-### Principais funcionalidades
+☁️ Cloud Computing
 
-- [FUNCIONALIDADE 1]
-- [FUNCIONALIDADE 2]
-- [FUNCIONALIDADE 3]
+📊 Análise de Dados
 
-🔗 *Projeto:* [LINK DO PROJETO]
+🔐 Segurança da Informação
 
-📂 *Repositório:* [LINK DO REPOSITÓRIO]
+🌐 Desenvolvimento Web
 
----
+🎓 Formação
 
-## 📌 [NOME DO PROJETO 2]
+🎓 Ciência da Computação
 
-> [Pequena descrição do projeto.]
-
-### Tecnologias
-
-HTML CSS JavaScript
-
-### Principais funcionalidades
-
-- [FUNCIONALIDADE 1]
-- [FUNCIONALIDADE 2]
-- [FUNCIONALIDADE 3]
-
-🔗 *Projeto:* [LINK DO PROJETO]
-
-📂 *Repositório:* [LINK DO REPOSITÓRIO]
-
----
-
-## 📌 [NOME DO PROJETO 3]
-
-> [Pequena descrição do projeto.]
-
-### Tecnologias
-
-[TECNOLOGIA] [TECNOLOGIA] [TECNOLOGIA]
-
-### Principais funcionalidades
-
-- [FUNCIONALIDADE 1]
-- [FUNCIONALIDADE 2]
-
-📂 *Repositório:* [LINK DO REPOSITÓRIO]
--->
-
-<!--
----
-
-# 🎓 Formação
-
-### 🎓 Ciência da Computação
-
-*Universidade Cruzeiro do Sul*
+Universidade Cruzeiro do Sul
 
 📅 2026 — 2029
 
-Principais áreas estudadas:
+🏆 Cursos & Certificações
 
-- DESENVOLVIMENTO FRONT-END PARA WEB
-- DESIGN PROFISSIONAL
-- ALGORITMOS E PENSAMENTO COMPUTACIONAL
-- MODELAGEM DE BANCO DE DADOS
----
+📜 Lógica de Programação
 
-# 🏆 Cursos & Certificações
+Rocketseat · 2026
 
-### 📜 Lógica de Programação
-*Instituição:* Rocketseat
+📜 Engenharia de Prompt
 
-📅 2026
+Rocketseat · 2026
 
----
+💡 Soft Skills
 
-### 📜 Engenharia de Prompt
+🤝 Trabalho em equipe
 
-*Instituição:* Rocketseat
+💬 Comunicação
 
-📅 2026
+🧠 Pensamento lógico
 
----
-<!--
-### 📜 [NOME DO CURSO OU CERTIFICAÇÃO]
+🔎 Curiosidade
 
-*Instituição:* [INSTITUIÇÃO]
+🚀 Proatividade
 
-📅 [ANO]
+📚 Aprendizado contínuo
 
----
--->
+🎯 Organização
 
----
+💡 Resiliência
 
-# 💡 Soft Skills
+🧩 Resolução de problemas
 
-- 🤝 Trabalho em equipe
-- 💬 Comunicação
-- 🧠 Pensamento lógico
-- 🔎 Curiosidade
-- 🚀 Proatividade
-- 📚 Aprendizado contínuo
-- 🎯 Organização
-- 💡 Resiliência
-- 🧩 Resolução de problemas
-- ⏰ Gestão de tempo
+⏰ Gestão de tempo
 
----
-
-# 🎯 Objetivos
+🎯 Objetivos
 
 No momento, meus principais objetivos são:
 
-- Conseguir minha primeira oportunidade em *TI*
-- Evoluir meus conhecimentos em *Desenvolvimento Web, Infraestrutura Cloud e Cibersegurança*
-- Desenvolver projetos para meu portfólio
-- Colaborar com projetos reais
-- Aprender novas tecnologias
-- Contribuir para projetos Open Source
+Conseguir minha primeira oportunidade em TI
 
----
+Evoluir meus conhecimentos em Desenvolvimento Web, Cloud e Cibersegurança
 
-# 📫 Onde me encontrar
+Desenvolver projetos para meu portfólio
+
+Colaborar com projetos reais
+
+Aprender novas tecnologias
+
+Contribuir para projetos Open Source
+
+Construir uma base sólida para atuar futuramente com DevOps
+
+📫 Onde me encontrar
 
 <div align="left">
 
 <a href="https://www.linkedin.com/in/giovanaaraújo/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:giovana.araujoidk77@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://www.instagram.com/xablau_idk/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="[LINK-DO-PORTFOLIO]" target="_blank">
-<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 </div>
 
----
-
 <div align="center">
 
-### ✨ Obrigada(o) por visitar meu perfil!
+✨ Obrigada por visitar meu perfil!
 
 ⭐ Se algum projeto te interessar, fique à vontade para explorar meus repositórios.
 
 </div>
-
-<!--
-====================================================================
-                     BIBLIOTECA DE ÍCONES
-====================================================================
-# 🧩 Biblioteca de Ícones
-
-## 💻 Linguagens
-
-### Python
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python"/>
-
-### Java
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" title="Java"/>
-
-### JavaScript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
-
-### TypeScript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript"/>
-
-### C
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" title="C"/>
-
-### C++
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" title="C++"/>
-
-### C#
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" title="C#"/>
-
-### PHP
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45" title="PHP"/>
-
-### Kotlin
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="45" height="45" title="Kotlin"/>
-
-### Swift
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="45" height="45" title="Swift"/>
-
----
-
-## 🌐 Front-End
-
-### HTML5
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
-
-### CSS3
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
-
-### React
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" title="React"/>
-
-### Angular
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="45" height="45" title="Angular"/>
-
-### Vue.js
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45" height="45" title="Vue.js"/>
-
-### Bootstrap
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" title="Bootstrap"/>
-
-### Tailwind CSS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" title="Tailwind CSS"/>
-
-### Next.js
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" title="Next.js"/>
-
----
-
-## ⚙️ Back-End
-
-### Node.js
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
-
-### Express
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" title="Express"/>
-
-### Django
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" height="45" title="Django"/>
-
-### Flask
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="45" height="45" title="Flask"/>
-
-### FastAPI
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" title="FastAPI"/>
-
-### Spring
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" title="Spring"/>
-
----
-
-## 🗄️ Banco de Dados
-
-### MySQL
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
-
-### PostgreSQL
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL"/>
-
-### MongoDB
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB"/>
-
-### SQLite
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45" title="SQLite"/>
-
-### Firebase
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45" title="Firebase"/>
-
-### Supabase
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" height="45" title="Supabase"/>
-
----
-
-## ☁️ Cloud
-
-### Microsoft Azure
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" title="Microsoft Azure"/>
-
-### AWS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" title="AWS"/>
-
-### Google Cloud
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" height="45" title="Google Cloud"/>
-
----
-
-## 🔧 DevOps
-
-### Git
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git"/>
-
-### GitHub
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
-
-### Docker
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
-
-### Kubernetes
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="45" height="45" title="Kubernetes"/>
-
-### Linux
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
-
-### Bash
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45" title="Bash"/>
-
----
-
-## 🛠️ Ferramentas
-
-### VS Code
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" title="Visual Studio Code"/>
-
-### Visual Studio
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" height="45" title="Visual Studio"/>
-
-### IntelliJ IDEA
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45" title="IntelliJ IDEA"/>
-
-### Figma
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" title="Figma"/>
-
-### Postman
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" title="Postman"/>
-
-### Notion
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="45" height="45" title="Notion"/>
-
-### Jira
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="45" height="45" title="Jira"/>
-
----
-
-## 📊 Dados
-
-### Power BI
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-### Pandas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" title="Pandas"/>
-
-### NumPy
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" title="NumPy"/>
-
-### Jupyter
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45" height="45" title="Jupyter"/>
-
----
-
-## 🤖 IA & Automação
-
-### ChatGPT
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-### GitHub Copilot
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-
-### n8n
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-### Power Automate
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
-
----
-
-<!--
-===========================================================
-                 CHECKLIST FINAL
-===========================================================
-
-[ ] Troquei meu nome
-[ ] Coloquei meu curso
-[ ] Coloquei minha faculdade
-[ ] Atualizei meu objetivo profissional
-[ ] Apaguei tecnologias que não conheço
-[ ] Adicionei tecnologias que conheço
-[ ] Troquei SEU-USUARIO pelo meu GitHub
-[ ] Atualizei meus projetos
-[ ] Atualizei minha formação
-[ ] Atualizei cursos e certificações
-[ ] Atualizei minha experiência
-[ ] Troquei meu LinkedIn
-[ ] Troquei meu e-mail
-[ ] Apaguei seções desnecessárias
-[ ] Apaguei a biblioteca quando terminei
-
-===========================================================
--->
