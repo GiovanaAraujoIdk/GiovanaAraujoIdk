@@ -222,7 +222,7 @@ HTML CSS JavaScript
 # 📈 GitHub Stats
 -->
 <!-- TROQUE SEU-USUARIO PELO SEU USUÁRIO DO GITHUB -->
-<!--
+
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GiovanaAraujoIdk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -230,7 +230,7 @@ HTML CSS JavaScript
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaAraujoIdk&layout=compact&hide_border=true"/>
 
 </div>
--->
+
 ---
 
 # 🔥 Sequência de Contribuições
