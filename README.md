@@ -19,11 +19,11 @@
 
 💻 Estudante de Ciência da Computação | Foco em DevOps
 
-Desenvolvimento de Software • Cloud • Automação • IA • Segurança da Informação
+*Desenvolvimento de Software • Cloud • Automação • IA • Segurança da Informação*
 
 <br>
 
-"Estou em constante evolução, e gosto de estudar!"
+*"Estou em constante evolução, e gosto de estudar!"*
 
 </div>
 
@@ -102,6 +102,8 @@ Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar ev
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
+--- 
+
 ## Atualmente estou aprofundando meus conhecimentos em:
 
 📘 Python
@@ -112,7 +114,9 @@ Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar ev
 
 📘 Java
 
-🧠 Conhecimentos & Áreas de Interesse
+---
+
+## 🧠 Conhecimentos & Áreas de Interesse
 
 ☁️ DevOps
 
@@ -132,25 +136,33 @@ Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar ev
 
 🌐 Desenvolvimento Web
 
-🎓 Formação
+---
 
-🎓 Ciência da Computação
+## 🎓 Formação
+
+*🎓 Ciência da Computação*
 
 Universidade Cruzeiro do Sul
 
 📅 2026 — 2029
 
-🏆 Cursos & Certificações
+---
 
-📜 Lógica de Programação
+## 🏆 Cursos & Certificações
+
+*📜 Lógica de Programação*
+
+---
 
 Rocketseat · 2026
 
-📜 Engenharia de Prompt
+*📜 Engenharia de Prompt*
 
 Rocketseat · 2026
 
-💡 Soft Skills
+---
+
+## 💡 Soft Skills
 
 🤝 Trabalho em equipe
 
@@ -174,7 +186,9 @@ Rocketseat · 2026
 
 🎯 Objetivos
 
-No momento, meus principais objetivos são:
+---
+
+## No momento, meus principais objetivos são:
 
 Conseguir minha primeira oportunidade em TI
 
@@ -190,7 +204,7 @@ Contribuir para projetos Open Source
 
 Construir uma base sólida para atuar futuramente com DevOps
 
-📫 Onde me encontrar
+## 📫 Onde me encontrar
 
 <div align="left">
 
