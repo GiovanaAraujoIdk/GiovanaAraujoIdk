@@ -1,6 +1,21 @@
 <div align="center">
 
-👋 Olá! Eu sou a Giovana
+## 👋 Olá! Eu sou a Giovana
+
+<!-- ================= PAC-MAN ANIMATION ================= -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitoria-camargo1109/vitoria-camargo1109/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitoria-camargo1109/vitoria-camargo1109/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitoria-camargo1109/vitoria-camargo1109/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+</div>
 
 💻 Estudante de Ciência da Computação | Foco em DevOps
 
@@ -12,7 +27,7 @@ Desenvolvimento de Software • Cloud • Automação • IA • Segurança da I
 
 </div>
 
-👩‍💻 Sobre Mim
+## 👩‍💻 Sobre Mim
 
 Olá! Meu nome é Giovana Araújo.
 
@@ -22,7 +37,7 @@ Estou desenvolvendo meus conhecimentos em tecnologia por meio de estudos, cursos
 
 Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar evoluindo tecnicamente e contribuir com projetos reais.
 
-🔎 Atualmente
+## 🔎 Atualmente
 
 🎓 Estudando Ciência da Computação
 
@@ -34,7 +49,7 @@ Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar ev
 
 🎯 Objetivo profissional: construir minha carreira na área de TI, com foco em DevOps
 
-💻 Linguagens de Programação
+## 💻 Linguagens de Programação
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -43,7 +58,7 @@ Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar ev
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-🌐 Desenvolvimento Web
+## 🌐 Desenvolvimento Web
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -51,7 +66,7 @@ Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar ev
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
@@ -60,7 +75,7 @@ Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar ev
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-🛠️ Ferramentas
+## 🛠️ Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
@@ -68,7 +83,7 @@ Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar ev
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 </p>
 
-🤖 Inteligência Artificial & Automação
+## 🤖 Inteligência Artificial & Automação
 
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
@@ -76,7 +91,7 @@ Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar ev
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 </p>
 
-📚 Atualmente Aprendendo
+## 📚 Atualmente Aprendendo
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -87,7 +102,7 @@ Meu objetivo é conquistar uma oportunidade como Estagiária em TI, continuar ev
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
-Atualmente estou aprofundando meus conhecimentos em:
+## Atualmente estou aprofundando meus conhecimentos em:
 
 📘 Python
 
